@@ -6,7 +6,7 @@
  */
 
 //% color="#AA278D" weight=100
-namespace hello {
+namespace circle {
     //% block
     export function area(radius: number): number {
         return Math.PI * radius * radius
